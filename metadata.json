@@ -1,0 +1,6 @@
+{
+  "name": "Zyro",
+  "description": "Simulatore di streaming stile Twitch con supporto orizzontale, HUD a scomparsa, AutoMod, AI Gemini e payout Zyro",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

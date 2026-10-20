@@ -1,4 +1,4 @@
-# 🚀 Zyro Live P2P
+# 🚀 Zyro Live P2P.. Presto anche l'apk
 
 **Zyro** è un'applicazione Android nativa essenziale, veloce e ad alte prestazioni progettata per una sola identica cosa: **andare in live streaming istantaneo sulla rete locale (P2P)**. 
 
